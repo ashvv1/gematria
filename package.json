@@ -1,6 +1,6 @@
 {
-  "name": "hebrew",
   "homepage": "https://ashvv1.github.io/gematria/",
+  "name": "hebrew",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
