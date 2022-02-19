@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gematria/static/css/main.595d8415.css",
+    "main.js": "/gematria/static/js/main.79e25b52.js",
+    "index.html": "/gematria/index.html",
+    "main.595d8415.css.map": "/gematria/static/css/main.595d8415.css.map",
+    "main.79e25b52.js.map": "/gematria/static/js/main.79e25b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595d8415.css",
+    "static/js/main.79e25b52.js"
+  ]
+}
